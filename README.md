@@ -1,8 +1,8 @@
 # A simple counter-App using [React.js](https://reactjs.org)
 
-> **This tiny application is like adding,removing,deleting, resetting products which reflects in the total number of products into our shopping cart.**
+Desafio Tech (DevOps) Projeto de Estagio.
 
-**This is a very basic app but useful to understand the React Components, states, Data Flow, parent to child etc. .**
+> **  Sistema Linux, Docker-file para realizar build, o container deve ser Docker-compose, portão diferente da padrão 3000 trocada para 4001.  **
 
 ## Live URL :-
 
@@ -21,4 +21,4 @@ In the project directory, you can run:
 #### `npm start`
 
 Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3000](http://localhost:4001) to view it in the browser.
